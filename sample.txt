@@ -1,3 +1,8 @@
 my name is mihir
+<<<<<<< HEAD
 second line. 
 this is third line.
+=======
+this is third line.
+
+>>>>>>> a71f9aae5e87a7631aa05a698c48693b5b3117d3
